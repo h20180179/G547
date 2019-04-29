@@ -28,7 +28,7 @@ To unload gas_adc in kernel:rmmod gas_adc
 
 Firmware building and flashing into the microcontroller:
 
-Command to build firmware and generate hex file: make hex
+Command to build firmware and generate hex file: make all
 
 Command to flash fuses and hex file: make program
 

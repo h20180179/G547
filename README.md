@@ -1,7 +1,4 @@
-# G547
-Course name: Device drivers 
-
-
+# G547 
 
 Gas Sensor ADC USB Device 
 

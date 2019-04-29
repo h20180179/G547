@@ -42,4 +42,6 @@ User application:
 Command to build: make all
 
 
-To start the getting data from accelerometer over usb onto Input Subsystem : sudo ./GasAdc Issues faced: Harware was extremely fragile. The hardware worked for some of the time and the other times it didn't. Possible cause could be the connections getting loose when moved.
+To start the getting data from gas sensor over usb onto Input Subsystem : sudo ./GasAdc 
+
+Issues faced: Harware was extremely fragile. The hardware worked for some of the time and the other times it didn't. The firmware was also properly flashed.
